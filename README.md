@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=FFFFFF&background=0D111700&width=435&lines=Hi+there%2C+I'm+Sparsh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=2500&pause=2000&color=FFFFFF&background=0D111700&width=435&lines=Hi+there%2C+I'm+Sparsh+Gupta" alt="Hi there, I'm Sparsh Gupta" /></a>
 
 <h1></h1>
 
 ### About Me
-- I'm a CS undergraduate at IITN
+- I'm a CS undergraduate at IIIT, Nagpur
 - I'm currently working on Full Stack Development
 - I'm looking to collaborate with open source enthusiasts
 
