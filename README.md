@@ -5,7 +5,7 @@
 <h1></h1>
 
 ### About Me
-- I'm a CS undergraduate at IIIT, Nagpur
+- Pre final CSE student at IIIT Nagpur
 - I'm currently working on Full Stack Development
 - I'm looking to collaborate with open source enthusiasts
 
@@ -14,14 +14,14 @@
 ### Tech Stack
 
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,tailwind,ts,mongodb,postman,c,cpp,python,git,bash,linux&perline=16" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,nextjs,react,spring,nodejs,express,tailwind,ts,mongodb,redis,postman,c,git,bash,linux&perline=16" />
 </div>
 
 <h1></h1>
 
 ### Me around the world
 
-[LinkedIn](https://www.linkedin.com/in/sparshgupta78/) • [CodeChef](https://www.codechef.com/users/sparshgupta78) • [LeetCode](https://leetcode.com/u/sparshgupta78/)
+[LinkedIn](https://www.linkedin.com/in/sparshgupta78/) • [Codeforces](https://codeforces.com/profile/sparshgupta78970) • [LeetCode](https://leetcode.com/u/sparshgupta78/)
 
 <h1></h1>
 
